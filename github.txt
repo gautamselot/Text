@@ -1,0 +1,16 @@
+git init
+ls -a
+git status
+git add sum.html
+git status
+git commit -m "intial commit"
+git add.(for modification)
+
+new repo same folder name
+
+git remote -v
+git remote add origin https...
+git remote -v  
+git branch -M master
+git push -u origin master
+
